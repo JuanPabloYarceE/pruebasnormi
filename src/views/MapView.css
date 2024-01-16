@@ -1,0 +1,16 @@
+.leaflet-container{
+    /*
+      vw: ancho total de la pantalla del dispositivo
+      vh: altura total de la pantalla del dispositivo
+      */
+    width: 100vw;
+    height: 50vh;
+  }
+  .filter {
+    left: 12px;
+    top: 32%;
+    position: absolute;
+    float: left;
+    z-index: 2;
+  }
+  
